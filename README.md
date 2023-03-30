@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [DevelopersMate](https://github.com/dhriti987/DevelopersMate)
 
-- 🌱 I’m currently learning ** Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 💬 Ask me about **Django, Django REST framework, Django Channels**
 
