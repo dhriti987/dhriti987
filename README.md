@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dhritiman Bharadwaj</h1>
 <h3 align="center">A passionate Django(Backend) developer from India</h3>
 
-- 🔭 I’m currently working on [DevelopersMate](https://github.com/dhriti987/DevelopersMate)
+- 🔭 I’m currently looking for Career Opportunities.
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
